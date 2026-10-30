@@ -1,0 +1,18 @@
+{
+    "name": "tutor-examen",
+    "description": "Tutor para preparar un examen de la facultad de cualquier materia: lee el material, entiende la cátedra, arma un plan hasta el día del examen y lo lleva sesión a sesión.",
+    "version": "1.0.0",
+    "author": {
+        "name": "Marino",
+        "url": "https://github.com/marino-san"
+    },
+    "homepage": "https://github.com/marino-san/skill-aprobar-examen",
+    "repository": "https://github.com/marino-san/skill-aprobar-examen",
+    "license": "MIT",
+    "keywords": [
+        "estudio",
+        "examen",
+        "tutor",
+        "facultad"
+    ]
+}

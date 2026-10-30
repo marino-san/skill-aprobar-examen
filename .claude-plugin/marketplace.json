@@ -1,0 +1,23 @@
+{
+    "name": "skill-aprobar-examen",
+    "owner": {
+        "name": "Marino",
+        "url": "https://github.com/marino-san"
+    },
+    "metadata": {
+        "description": "Skills de Claude Code para preparar y aprobar exámenes de la facultad."
+    },
+    "plugins": [
+        {
+            "name": "tutor-examen",
+            "source": "./plugins/tutor-examen",
+            "description": "Tutor para preparar un examen de la facultad de cualquier materia: lee el material, entiende la cátedra, arma un plan hasta el día del examen y lo lleva sesión a sesión.",
+            "category": "estudio",
+            "tags": [
+                "estudio",
+                "examen",
+                "tutor"
+            ]
+        }
+    ]
+}
